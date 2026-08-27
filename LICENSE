@@ -1,15 +1,55 @@
-LICENSE
+PROPRIETARY SOFTWARE LICENSE
 
 Copyright (c) 2026 Amarildo Cristo
+All rights reserved.
 
-Todos os direitos reservados.
+This software and its source code are proprietary and are made available
+for portfolio, demonstration, technical evaluation, educational and
+recruitment purposes only.
 
-Este projeto é disponibilizado exclusivamente para fins de
-portfólio, demonstração e avaliação técnica.
+PERMITTED USE
 
-É permitida a visualização e análise do código para fins
-educacionais, técnicos e de recrutamento.
+You are permitted to:
 
-A cópia, modificação, redistribuição, publicação ou utilização
-comercial, total ou parcial, deste código não é permitida sem
-autorização prévia do autor.
+- view and inspect the source code;
+- study and analyze the implementation for educational purposes;
+- evaluate the technical skills demonstrated by the author;
+- review the project for recruitment, hiring or professional evaluation
+  purposes.
+
+RESTRICTIONS
+
+Without prior written authorization from the copyright holder, you may not:
+
+- copy or reproduce the source code, in whole or in part;
+- modify, adapt, translate or create derivative works;
+- redistribute, publish or republish the source code;
+- incorporate the source code into another software project;
+- use the source code or any substantial portion of it for commercial purposes;
+- sell, sublicense, license or otherwise commercially exploit the software;
+- present the source code or substantial portions of it as your own work.
+
+NO TRANSFER OF RIGHTS
+
+Making this repository publicly accessible does not grant any ownership,
+copyright, license or other intellectual property rights beyond the
+limited permissions expressly stated above.
+
+THIRD-PARTY COMPONENTS
+
+This license applies only to the original code and materials created by
+the copyright holder. Third-party libraries, dependencies, frameworks,
+fonts, images and other components remain subject to their respective
+licenses and terms.
+
+DISCLAIMER
+
+The software is provided for demonstration and evaluation purposes only,
+without warranties of any kind, to the extent permitted by applicable law.
+
+For licensing, commercial use, redistribution or other permissions not
+expressly granted by this license, prior written authorization from the
+copyright holder is required.
+
+Contact:
+Amarildo Cristo
