@@ -1,7 +1,8 @@
 </div><!-- /.container -->
 
 <footer class="text-center text-muted py-4 mt-5">
-    <small>CRUD - Create, Read, Update e Delete &copy; <?= date('Y') ?> AmacTech. Todos os direitos reservados.</small>
+    <small>Crud - Autenticado &copy; <?= date('Y') ?>. Todos os direitos reservados.</small>
+    <small>Desenvolvido por <strong>Amarildo Cristo</strong></small>
 </footer>
 
 <!-- Bootstrap 5 JS Bundle -->
