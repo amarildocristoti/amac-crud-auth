@@ -1,11 +1,13 @@
 {
-    "name": "amarildo/crud-mvc-pdo",
+    "name": "proj-crud-mvc-auth/amactech",
     "description": "CRUD em PHP puro com arquitetura MVC, PDO, autenticação e segurança",
     "type": "project",
     "license": "proprietary",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "Amarildo Antonio das Dores Cristo"
+            "name": "Amarildo Cristo",
+            "email": "amarildocristo@hotmail.com"
         }
     ],
     "require": {
