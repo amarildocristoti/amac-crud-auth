@@ -1,5 +1,5 @@
 {
-    "name": "proj-crud-mvc-auth/amactech",
+    "name": "amactech/crud-mvc-auth",
     "description": "CRUD em PHP puro com arquitetura MVC, PDO, autenticação e segurança",
     "type": "project",
     "license": "proprietary",
