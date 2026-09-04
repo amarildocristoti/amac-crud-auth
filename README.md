@@ -5,6 +5,8 @@ Aplicação web desenvolvida em PHP utilizando arquitetura MVC,
 PDO e MySQL, com autenticação, gerenciamento de usuários,
 controle de acesso e mecanismos de segurança.
 
+Mostra para o usuario logado, numero de usuários cadastrado, data atual e mes atual. 
+
 > Projeto desenvolvido para portfólio, demonstração e avaliação técnica.
 
 ## Tecnologias utilizadas
@@ -35,7 +37,7 @@ controle de acesso e mecanismos de segurança.
 
 ## Sobre o projeto
 
-CRUD PHP PDO é uma aplicação web desenvolvida com PHP puro,
+CRUD PHP PDO SIMPLES é uma aplicação web desenvolvida com PHP puro,
 organizada segundo o padrão MVC e utilizando PDO para acesso ao
 banco de dados.
 
