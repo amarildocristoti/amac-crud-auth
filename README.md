@@ -69,7 +69,6 @@ O projeto foi desenvolvido com foco em:
 - Configuração por variáveis de ambiente
 - Estrutura preparada para expansão modular
 
-
 ## Estrutura de pastas
 
 ```
