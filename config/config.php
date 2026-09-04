@@ -24,7 +24,7 @@ define('APP_ENV', $_ENV['APP_ENV'] ?? 'development');
 define('APP_URL', $_ENV['APP_URL'] ?? 'localhost/crud-mvc-auth/public');
 define('APP_KEY', $_ENV['APP_KEY'] ?? '');
 
-// Exibição de erros conforme ambiente
+// Exibição de erros conforme ambiente 
 if (APP_ENV === 'development') {
     ini_set('display_errors', 1);
     error_reporting(E_ALL);

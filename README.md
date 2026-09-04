@@ -9,7 +9,7 @@ Mostra para o usuario logado, numero de usuários cadastrado, data atual e mes a
 
 > Projeto desenvolvido para portfólio, demonstração e avaliação técnica.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 
 ### Backend
 
