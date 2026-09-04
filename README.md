@@ -140,6 +140,9 @@ crud-mvc-auth/
 5. Acesse `http://localhost/pasta_do_projeto/public/create` para criar sua primeira conta.
 
 
+6. Primeiro usuário cadastrado torna-se super_admin
+
+
 ## Fluxo de utilização
 
 ```text
