@@ -51,7 +51,7 @@ O projeto foi desenvolvido com foco em:
 - persistência de dados;
 - boas práticas de desenvolvimento;
 - versionamento com Git.
-- paginação a partir de 8 registros por páginas
+- paginação a partir de 8 registos por páginas
 
 ## Principais funcionalidades
 
