@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS crud_mvc CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE IF NOT EXISTS crud_mvc_simple CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-USE crud_mvc;
+USE crud_mvc_simple;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,

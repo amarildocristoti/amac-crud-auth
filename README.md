@@ -1,7 +1,5 @@
 
-⚠️ **Portfolio Project** ⚠️ 
-
-# CRUD PHP PDO 
+# CRUD PHP PDO SIMPLES 
 
 Aplicação web desenvolvida em PHP utilizando arquitetura MVC,
 PDO e MySQL, com autenticação, gerenciamento de usuários,
@@ -138,9 +136,6 @@ crud-mvc-auth/
    ```
 
 5. Acesse `http://localhost/pasta_do_projeto/public/create` para criar sua primeira conta.
-
-
-6. Primeiro usuário cadastrado torna-se super_admin
 
 
 ## Fluxo de utilização
